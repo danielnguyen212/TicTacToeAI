@@ -24,8 +24,8 @@ int main(){
 	while(play_again){
 
 		char game_board[3][3]{{' ', ' ', ' '},
-							  {' ', ' ', ' '},
-							  {' ', ' ', ' '}};
+				      {' ', ' ', ' '},
+				      {' ', ' ', ' '}};
 
 		int first_turn;
 		int turn{0};
